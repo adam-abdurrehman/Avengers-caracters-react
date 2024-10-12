@@ -9,5 +9,5 @@
 
 ### Here is some representation of my `Avengers characters` project.
 
-![Project Screenshot](Screenshot.png)
+![Project `React Avengers characters` Screenshot](src/assets/Screenshot.png)
 
