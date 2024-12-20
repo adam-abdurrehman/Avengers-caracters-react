@@ -1,16 +1,16 @@
 import { useState } from 'react'
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa';
 import AntMan from '../../src/assets/Ant-Man1.jpg';
-import BlackPanther from '../../src/assets/panther1.jpg';
-import CaptainAmerica from '../../src/assets/captain2.jpg';
-import ClintBarton from '../../src/assets/clint1.jpg';
-import DrStrange from '../../src/assets/dr-strange1.jpg';
-import Hulk from '../../src/assets/hulk.jpg';
-import IronMan from '../../src/assets/iron-man1.jpg';
+import BlackPanther from '../../src/assets/Panther1.jpg';
+import CaptainAmerica from '../../src/assets/Captain2.jpg';
+import ClintBarton from '../../src/assets/Clint1.jpg';
+import DrStrange from '../../src/assets/Dr-Strange1.jpg';
+import Hulk from '../../src/assets/Hulk.jpg';
+import IronMan from '../../src/assets/Iron-Man1.jpg';
 import Loki from '../../src/assets/Loki.jpg';
 import SpiderMan from '../../src/assets/Spider-man1.jpg';
-import Thanos from '../../src/assets/thanos.jpg';
-import Thor from '../../src/assets/thor1.jpg';
+import Thanos from '../../src/assets/Thanos.jpg';
+import Thor from '../../src/assets/Thor1.jpg';
 
 
 const Caracters = () => {
