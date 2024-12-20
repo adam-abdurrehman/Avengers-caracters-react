@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa';
-import AntMan from '../../src/assets/Ant-man1.jpg';
+import AntMan from '../../src/assets/Ant-Man1.jpg';
 import BlackPanther from '../../src/assets/panther1.jpg';
 import CaptainAmerica from '../../src/assets/captain2.jpg';
 import ClintBarton from '../../src/assets/clint1.jpg';
